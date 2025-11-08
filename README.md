@@ -52,7 +52,7 @@ DELETE	/students/{id}	Delete a student
 
 ---
 
-## 💻 **Frontend – `README.md` (React / HTML)**
+##  **Frontend – `README.md` (React / HTML)**
 
 Create this file inside your `frontend/` folder:
 
@@ -73,7 +73,7 @@ It allows users to interact with the backend APIs for managing students, courses
 
 ---
 
-## ⚙️Tech Stack
+## Tech Stack
 
 - **React 18+**
 - **HTML5 / CSS3 / JS **
@@ -92,7 +92,7 @@ frontend/
 │ └── App.js
 ├── public/
 └── package.json
-## ▶️ How to Run the Frontend
+##  How to Run the Frontend
 
 Navigate to the frontend directory:
    cd frontend
